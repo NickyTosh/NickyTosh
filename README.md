@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickyTosh
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning python/Django
+- 🌱 I’m currently learning HTML/CSS/JavaScript 
 - 💞️ I’m looking to collaborate on web framework 
 - 📫 How to reach me telegram @NickyTosh, WhatsApp+254707259919
 
